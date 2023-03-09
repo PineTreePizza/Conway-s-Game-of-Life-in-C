@@ -1,0 +1,3 @@
+/home/pine/C/Game of Life/CMakeFiles/Life.dir
+/home/pine/C/Game of Life/CMakeFiles/edit_cache.dir
+/home/pine/C/Game of Life/CMakeFiles/rebuild_cache.dir

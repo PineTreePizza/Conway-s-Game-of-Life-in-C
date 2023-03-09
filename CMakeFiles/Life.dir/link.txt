@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Life.dir/Life.c.o -o Life 
